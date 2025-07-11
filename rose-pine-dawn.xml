@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Rosé Pine Dawn Theme - Baseado na paleta oficial do Rosé Pine Dawn -->
+<style-scheme id="rose-pine-dawn" name="Rosé Pine Dawn" version="1.0">
+  <metadata>
+    <property name="variant">light</property>
+    <property name="dark-variant">rose-pine</property>
+    <property name="terminal-palette">rose-pine-dawn</property>
+  </metadata>
+
+  <!-- Cores principais do Rosé Pine Dawn (Light) -->
+  <color name="Foreground" value="#575279"/>
+  <color name="Background" value="#faf4ed"/>
+  <color name="Cursor" value="#ea9d34"/>
+  <color name="Gutter" value="#faf4ed"/>
+  <color name="CurrentLine" value="#fffaf3"/>
+  <color name="Color0" value="#faf4ed"/>
+  <color name="Color1" value="#b4637a"/>
+  <color name="Color2" value="#56949f"/>
+  <color name="Color3" value="#ea9d34"/>
+  <color name="Color4" value="#286983"/>
+  <color name="Color5" value="#907aa9"/>
+  <color name="Color6" value="#d7827e"/>
+  <color name="Color7" value="#575279"/>
+  <color name="Color8" value="#9893a5"/>
+  <color name="Color9" value="#b4637a"/>
+  <color name="Color10" value="#56949f"/>
+  <color name="Color11" value="#ea9d34"/>
+  <color name="Color12" value="#286983"/>
+  <color name="Color13" value="#907aa9"/>
+  <color name="Color14" value="#d7827e"/>
+  <color name="Color15" value="#191724"/>
+
+  <!-- Estilos básicos -->
+  <style name="text" background="Background" foreground="Foreground"/>
+  <style name="cursor" foreground="Cursor"/>
+  <style name="search-match" background="Color3" foreground="Background"/>
+  <style name="line-numbers" background="Background" foreground="#9893a5"/>
+  <style name="current-line" background="CurrentLine"/>
+  <style name="current-line-number" background="CurrentLine" foreground="#575279"/>
+  <style name="right-margin" foreground="Foreground" background="Gutter"/>
+
+  <!-- Estilos de sintaxe -->
+  <style name="def:base-n-integer" foreground="Color5"/>
+  <style name="def:boolean" foreground="Color2"/>
+  <style name="def:character" foreground="Color6"/>
+  <style name="def:comment" foreground="#9893a5"/>
+  <style name="def:doc-comment-element" bold="true"/>
+  <style name="def:constant" foreground="Color5"/>
+  <style name="def:decimal" foreground="Color5"/>
+  <style name="def:error" underline="error" underline-color="Color1"/>
+  <style name="def:floating-point" foreground="Color5"/>
+  <style name="def:keyword" foreground="Color1"/>
+  <style name="def:net-address" foreground="Color4" underline="low"/>
+  <style name="def:function" foreground="Color4"/>
+  <style name="def:number" foreground="Color5"/>
+  <style name="def:preprocessor" foreground="Color6"/>
+  <style name="def:special-char" foreground="Color4"/>
+  <style name="def:string" foreground="Color3"/>
+  <style name="def:strong-emphasis" bold="true"/>
+  <style name="def:identifier" foreground="Color2"/>
+  <style name="def:type" foreground="Color2"/>
+
+</style-scheme> 
