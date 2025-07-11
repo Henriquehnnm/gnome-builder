@@ -5,11 +5,12 @@
   https://github.com/rose-pine/palette
 -->
 <style-scheme id="rose-pine-dawn" _name="Rosé Pine Dawn" version="1.0">
-  <author>Rosé Pine Community</author>
+  <author>Henrique Sardinha</author>
   <_description>Um tema elegante e suave para GtkSourceView baseado na paleta Rosé Pine Dawn.</_description>
 
   <metadata>
     <property name="variant">light</property>
+    <property name="dark-variant">rose-pine</property>
   </metadata>
 
   <!-- Paleta de Cores Nomeadas -->

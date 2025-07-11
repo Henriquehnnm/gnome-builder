@@ -5,11 +5,12 @@
   https://github.com/rose-pine/palette
 -->
 <style-scheme id="rose-pine-moon" _name="Rosé Pine Moon" version="1.0">
-  <author>Rosé Pine Community</author>
+  <author>Henrique Sardinha</author>
   <_description>Um tema elegante e suave para GtkSourceView baseado na paleta Rosé Pine Moon.</_description>
 
   <metadata>
     <property name="variant">dark</property>
+    <property name="light-variant">rose-pine-dawn</property>
   </metadata>
 
   <!-- Paleta de Cores Nomeadas -->
