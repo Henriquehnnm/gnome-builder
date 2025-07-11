@@ -16,6 +16,7 @@
 1. Create the folder ~/.local/share/gtksourceview-5/styles
 2. Paste the `.xml` files into the created folder
 3. Select the `Rosé Pine` theme in the appearance settings of Gnome Builder (or gnome text editor)
+> For Flatpak use: `flatpak override --user --filesystem=/home/vegeta/.local/share/gtksourceview-5`
 
 ## Gallery
 
