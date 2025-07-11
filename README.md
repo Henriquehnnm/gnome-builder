@@ -19,9 +19,9 @@
 
 ## Gallery
 
-![Pine](rose-pine.png)
-![Moon](rose-pine-moon.png)
-![Dawn](rose-pine-dawn.png)
+![Pine](assets/rose-pine.png)
+![Moon](assets/rose-pine-moon.png)
+![Dawn](assets/rose-pine-dawn.png)
 
 ## Thanks to
 
