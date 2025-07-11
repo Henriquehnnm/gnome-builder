@@ -40,24 +40,24 @@
   <style name="right-margin" foreground="Foreground" background="Gutter"/>
 
   <!-- Estilos de sintaxe -->
-  <style name="def:base-n-integer" foreground="Color5"/>
-  <style name="def:boolean" foreground="Color2"/>
-  <style name="def:character" foreground="Color6"/>
-  <style name="def:comment" foreground="#9893a5"/>
-  <style name="def:doc-comment-element" bold="true"/>
-  <style name="def:constant" foreground="Color5"/>
-  <style name="def:decimal" foreground="Color5"/>
-  <style name="def:error" underline="error" underline-color="Color1"/>
-  <style name="def:floating-point" foreground="Color5"/>
-  <style name="def:keyword" foreground="Color1"/>
-  <style name="def:net-address" foreground="Color4" underline="low"/>
-  <style name="def:function" foreground="Color4"/>
-  <style name="def:number" foreground="Color5"/>
-  <style name="def:preprocessor" foreground="Color6"/>
-  <style name="def:special-char" foreground="Color4"/>
-  <style name="def:string" foreground="Color3"/>
+  <style name="def:base-n-integer" foreground="Color14"/>
+  <style name="def:boolean" foreground="Color13" bold="true"/>
+  <style name="def:character" foreground="Color12"/>
+  <style name="def:comment" foreground="#5a5d66" italic="true"/>
+  <style name="def:doc-comment-element" bold="true" italic="true"/>
+  <style name="def:constant" foreground="Color14"/>
+  <style name="def:decimal" foreground="Color14"/>
+  <style name="def:error" underline="error" underline-color="Color10"/>
+  <style name="def:floating-point" foreground="Color14"/>
+  <style name="def:keyword" foreground="Color10" bold="true"/>
+  <style name="def:net-address" foreground="Color9" underline="low"/>
+  <style name="def:function" foreground="Color9" bold="true"/>
+  <style name="def:number" foreground="Color14"/>
+  <style name="def:preprocessor" foreground="Color12"/>
+  <style name="def:special-char" foreground="Color9"/>
+  <style name="def:string" foreground="Color11"/>
   <style name="def:strong-emphasis" bold="true"/>
-  <style name="def:identifier" foreground="Color2"/>
-  <style name="def:type" foreground="Color2"/>
+  <style name="def:identifier" foreground="Color13"/>
+  <style name="def:type" foreground="Color8" bold="true"/>
 
 </style-scheme> 
