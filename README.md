@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for Gnome Builder</h2>
+    <h2 align="center">Rosé Pine for GNOME Builder</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -15,7 +15,7 @@
 
 1. Create the folder ~/.local/share/gtksourceview-5/styles
 2. Paste the `.xml` files into the created folder
-3. Select the `Rosé Pine` theme in the appearance settings of Gnome Builder (or gnome text editor)
+3. Select the `Rosé Pine` theme in the appearance settings of GNOME Builder (or GNOME text editor)
 > For Flatpak use: `flatpak override --user --filesystem=~/.local/share/gtksourceview-5`
 
 ## Gallery
