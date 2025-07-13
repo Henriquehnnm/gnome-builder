@@ -20,9 +20,17 @@
 
 ## Gallery
 
-![Pine](assets/rose-pine.png)
-![Moon](assets/rose-pine-moon.png)
-![Dawn](assets/rose-pine-dawn.png)
+### Rosé Pine
+
+![Rosé Pine with GNOME Builder](assets/rose-pine.png)
+
+### Rosé Pine Moon
+
+![Rosé Pine Moon with GNOME Builder](assets/rose-pine-moon.png)
+
+### Rosé Pine Dawn
+
+![Rosé Pine Dawn with GNOME Builder](assets/rose-pine-dawn.png)
 
 ## Thanks to
 
